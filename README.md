@@ -1,9 +1,9 @@
 # Hi, I'm Omar 👋
 
-I'm a [Computer Science student / self-taught developer] from [Egypt], passionate about [web development / programming / data].
+I'm a Computer Science student / self-taught developer from Egypt, passionate about Data Scientist / programming / data.
 
 ## 🔭 What I'm doing now
-- Learning [Python / Sql / Java]
+- Learning Python / Sql / Java
 - Building my first projects
 
 ## 🛠️ Skills
@@ -13,4 +13,4 @@ I'm a [Computer Science student / self-taught developer] from [Egypt], passionat
 
 ## 📫 Contact
 - Email: [omarmahmoud4117@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/omar-mahmoud-02315b39a?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- LinkedIn: [https://www.linkedin.com/in/omar-mahmoud-02315b39a]
