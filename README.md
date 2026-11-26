@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Omar 👋
 
-<!--
-**omarmahmoud-abdelziz/omarmahmoud-abdelziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a [Computer Science student / self-taught developer] from [Egypt], passionate about [web development / programming / data].
 
-Here are some ideas to get you started:
+## 🔭 What I'm doing now
+- Learning [Python / Sql / Java]
+- Building my first projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+## 📫 Contact
+- Email: [omarmahmoud4117@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/omar-mahmoud-02315b39a?utm_source=share_via&utm_content=profile&utm_medium=member_android]
